@@ -1,0 +1,30 @@
+_repo: The-Dangerous-Classes-of-New-York-and-Twenty-Years-Work-Among-Them_33431
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brace, Charles Loring
+    alias: Brace, C. Loring (Charles Loring)
+    birthdate: 1826
+    deathdate: 1890
+    gutenberg_agent_id: '36403'
+    url: http://www.gutenberg.org/2009/agents/36403
+description: ''
+gutenberg_issued: '2010-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33431'
+  lccn: '10022316'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Child welfare -- New York (State) -- New York'
+- !lcc 'HV'
+- !lcsh 'Poor -- New York (State) -- New York'
+- !lcsh 'New York (N.Y.) -- Social conditions'
+title: The Dangerous Classes of New York, and Twenty Years' Work Among Them
+url: http://www.gutenberg.org/ebooks/33431
