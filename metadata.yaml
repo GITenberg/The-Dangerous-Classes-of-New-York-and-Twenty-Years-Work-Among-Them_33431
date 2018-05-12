@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36403'
     url: http://www.gutenberg.org/2009/agents/36403
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33431#The-Dangerous-Classes-of-New-York-and-Twenty-Years-Work-Among-Them
 gutenberg_issued: '2010-08-14'
 gutenberg_type: Text
 identifiers:
